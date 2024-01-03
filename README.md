@@ -7,7 +7,7 @@ Backend Developer
 * 🌍  I'm based in India, New Delhi, Dwarka pincode- 110045
 * ✉️  You can contact me at [n.kushalrao@gmail.com](mailto:n.kushalrao@gmail.com)
 * 🧠  I'm learning Web dev and AWS
-* 🤝  I'm open to collaborating on I am open to collaborating on machine learning projects
+* 🤝  I'm open to collaborating on machine learning projects
 
 ### Skills
 
